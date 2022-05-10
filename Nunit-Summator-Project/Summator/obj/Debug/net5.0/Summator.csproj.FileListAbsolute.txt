@@ -1,0 +1,16 @@
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.exe
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.deps.json
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.runtimeconfig.json
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.runtimeconfig.dev.json
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.dll
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\bin\Debug\net5.0\ref\Summator.dll
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.pdb
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.csproj.AssemblyReference.cache
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.AssemblyInfoInputs.cache
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.AssemblyInfo.cs
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.csproj.CoreCompileInputs.cache
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.dll
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\ref\Summator.dll
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.pdb
+D:\VIKI\QA Automation\Lesson 2 - Unit-Testing and Nunit\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.genruntimeconfig.cache

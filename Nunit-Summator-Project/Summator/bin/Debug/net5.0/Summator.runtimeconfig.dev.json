@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vikia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vikia\\.nuget\\packages"
+    ]
+  }
+}
